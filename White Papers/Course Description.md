@@ -4,8 +4,11 @@
 Joe Bloggs - Joe@Bloggs.com
 
 ## Audience
+* Chip
+* Thom
 
 ## Executive Overview
+Summary of software dev course
 
 ## Introduction
 
